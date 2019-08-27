@@ -15,4 +15,4 @@ I still do not understand why Peter Aklam thought it necessary to develop his ow
 
 After a quick crash-course in FORTRAN syntax, I was able to easily (but teadiously) translate Wichura's algorithm to Visual Basic .NET.
 
-Since Wichura's code is published work and all I did was translate it, I am not making any claims to this code other than as a humble contributor. I hope you find it beneficial.
+Since Wichura's code is published work and all I did was essentially translate it, I am not making any claims to this code other than as a humble contributor. I hope you find it beneficial.

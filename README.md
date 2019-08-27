@@ -10,7 +10,7 @@ legacy program that I was replacing.
 
 Peter Aklam never published his algorithm in any peer-reviewed journals so, other than some historical web pages, 
 it was not possible to follow up to see if any changes or progress took place. However, those historical pages pointed 
-out to the previous work of others.
+me to the previous work of others.
 
 Conducting that literature search, I found the seminal paper "Algorithm AS 241: The Percentage Points of the Normal 
 Distribution" by Michael J. Wichura (1988), Applied Statistics, vol. 37, pp. 477-484. This paper included an implementation 

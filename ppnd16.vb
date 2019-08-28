@@ -2,6 +2,7 @@ Module NormSInv_Wichura
 
 'The following function is based on FORTRAN code published in: Michael J. Wichura, Applied Statistics, vol. 37, 1988, pp. 477-484
 'Adapted to VB.NET by Nelson Garcia (NCG Consulting Inc).
+    'Code is written for readability. Feel free to abbreviate or combine lines.
     Public Function PPND16(ByVal P As Double) As Double
         Dim ZERO, ONE, HALF, SPLIT1, SPLIT2, CONST1, CONST2, A0, A1, A2, A3, A4, A5, A6, A7 As Double
         Dim B1, B2, B3, B4, B5, B6, B7 As Double
